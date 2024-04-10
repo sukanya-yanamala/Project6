@@ -38,7 +38,7 @@ struct ContentView: View {
         Button("Delete selection", role: .destructive, action: executeDelete)
         
         VStack {
-            Button("Button 1") { }
+            Button("Button 2") { }
                 .buttonStyle(.bordered)
             
             Button {
