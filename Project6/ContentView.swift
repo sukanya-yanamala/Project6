@@ -17,6 +17,7 @@ struct ContentView: View {
             Text("First")
             Text("Second")
             Text("Third")
+            Text("four")
                 .frame(maxWidth: 500, maxHeight: 50)
                     .foregroundStyle(.white)
                     .background(.red.gradient)
