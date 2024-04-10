@@ -47,7 +47,7 @@ struct ContentView: View {
                 Label("Edit", systemImage: "pencil")
                     .padding()
                     .foregroundStyle(.white)
-                    .background(.red)
+                    .background(.blue)
             }
         }
     }
